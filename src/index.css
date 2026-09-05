@@ -1,0 +1,20 @@
+@import "tailwindcss";
+
+@theme {
+  --font-sans: 'Imprima', sans-serif, system-ui;
+}
+
+html, body, #root, input, select, textarea, button {
+  font-family: 'Imprima', sans-serif, system-ui;
+}
+
+html, body, #root {
+  width: 100%;
+  max-width: 100%;
+  overflow-x: hidden;
+  box-sizing: border-box;
+}
+
+*, *::before, *::after {
+  box-sizing: border-box;
+}

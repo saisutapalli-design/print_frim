@@ -1,0 +1,6 @@
+{
+  "name": "Sairam Ads",
+  "description": "Sairam Ads - Digital ledger and operational management hub for flex printing business with order tracking, balance sheets, expenses, team, and customer accounts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
